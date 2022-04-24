@@ -662,6 +662,12 @@ main {
    }
 }
 
-@media(max-width: 310px){
-
+@media(max-width: 283px){
+   .faqs .title-faqs{
+      font-size: 3rem;
+      margin-top: 800px;
+   }
+   .footer{
+      margin-top: 800px;
+   }
 }
