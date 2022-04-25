@@ -495,6 +495,9 @@ main {
    }
 }
 @media(max-width: 616px){
+   .modules-container .title-modules{
+      margin-top: 250px;
+   }
    .presentation-container .main-logo{
       justify-content: center;
    }
@@ -534,6 +537,7 @@ main {
    .footer h1{
       font-size: 2rem;
    }
+   
 }
 
 @media (max-width: 592px){
@@ -561,9 +565,18 @@ main {
    .card-content-4 .about-4 p{
       font-size: 1.6rem;
    }
+   
 }
 
 @media (max-width: 488px){
+   
+   .faqs .title-faqs{
+      font-size: 3rem;
+      margin-top: 300px;
+   }
+   .footer{
+      margin-top: 300px;
+   }
    .card-content img{
       width: 100px;
    }
